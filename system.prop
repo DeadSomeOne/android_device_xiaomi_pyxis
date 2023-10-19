@@ -9,3 +9,6 @@ persist.vendor.camera.multicam.hwsync=TRUE
 
 # Panel
 sys.panel.touch_vendor=3
+
+# NFC
+ro.boot.hardware.sku=pyxis
