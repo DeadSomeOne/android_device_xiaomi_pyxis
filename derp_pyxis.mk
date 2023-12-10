@@ -19,6 +19,8 @@ TARGET_HAS_UDFPS := true
 
 EXTRA_UDFPS_ANIMATIONS := true
 
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
 
 # Inherit from pyxis device
