@@ -13,16 +13,15 @@ LOCAL_OVERRIDES_PACKAGES := \
     Maps \
     YTMusic \
     Photos \
-    Velvet \
     Videos \
     YouTube \
     YoutubeMusicPrebuilt \
     PrebuiltGmail \
     GoogleTTS \
     talkback \
-    Velvet \
     TurboPrebuilt \
-    ScribePrebuilt
+    ScribePrebuilt \
+    SafetyHubPrebuilt
 
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
