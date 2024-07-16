@@ -58,5 +58,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     TargetWifiOverlay
 
+# NFC
+PRODUCT_PACKAGES += \
+    NfcOverlayPyxis
+
 # Inherit from the proprietary version
 $(call inherit-product, vendor/xiaomi/pyxis/pyxis-vendor.mk)
